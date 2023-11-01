@@ -39,4 +39,4 @@ sign thinking process, and development phases.
 Describing the platform's layout, features, and technical implementation details.
 Including the screenshots or images of the platform's user interface as a documentary
 - Phase 5 - [CAD_Phase5]
-(https://github.com/Sangee0310/Naan-Mudhalvan/blob/c492d48d9915a94801b5158456537c8efcbf0935/CAD_Phase5.docx)
+- https://github.com/srithar52/naanmudhalvan/blob/1adc95c339e75946d640b8099812395f20f151e6/CAD_Phase5.docx
