@@ -20,7 +20,7 @@ https://github.com/srithar52/naanmudhalvan/blob/65f11df3a7bc13d106519d8b1ebdc642
 ## Innovation
 The phase2 is about onsider incorporating features like product reviews, wishlists, and personalized recommendations to enhance user engagement and satisfaction.
 - Phase 2 - [CAD_Phase2]
-(https://github.com/Sangee0310/Naan-Mudhalvan/blob/395252c5ca663787317ba8137929b7197efacdbb/CAD_Phase2.docx) 
+https://github.com/srithar52/naanmudhalvan/blob/f652ff1a290a29e636d476bebeea9324783880db/Phase%202.docx 
 
 
 ## Development part 1
