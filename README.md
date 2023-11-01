@@ -26,7 +26,7 @@ https://github.com/srithar52/naanmudhalvan/blob/f652ff1a290a29e636d476bebeea9324
 ## Development part 1
 In this phase designing the platform layout and create a database for a store product information. 
 - Phase 3 - [CAD_Phase3]
-(https://github.com/Sangee0310/Naan-Mudhalvan/blob/4dfe60ff0a7710caac70d68bc525b7fa0d0d5308/CAD_Phase3.docx) 
+https://github.com/srithar52/naanmudhalvan/blob/675ddf1b3596f43a2c9ad4890fb546024c00d66e/CAD_Phase3.docx
 
 ## Development part 2
 In this phase implementing an user authentication, shopping cart, and checkout functionality. 
